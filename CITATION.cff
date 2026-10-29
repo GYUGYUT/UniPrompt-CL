@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification"
+authors:
+  - family-names: Oh
+    given-names: Gyutae
+    affiliation: Sungkyunkwan University
+  - family-names: Shin
+    given-names: Jitae
+    affiliation: Sungkyunkwan University
+preferred-citation:
+  type: conference-paper
+  title: "UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification"
+  authors:
+    - family-names: Oh
+      given-names: Gyutae
+    - family-names: Shin
+      given-names: Jitae
+  collection-title: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027

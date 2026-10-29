@@ -1,0 +1,23 @@
+# experiment outputs
+results/
+wandb/
+*.pth
+*.pt
+*.ckpt
+
+# data (download separately; see README)
+data/
+dataloader/tensor_cache/
+*.npy
+*.npz
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store

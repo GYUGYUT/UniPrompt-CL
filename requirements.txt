@@ -1,0 +1,14 @@
+# Packages imported by the code. Install PyTorch first (see README) so that the
+# CUDA build matches your system; the versions below are those used for the paper.
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.46.3
+torchmetrics==1.5.2
+scikit-learn==1.3.2
+pandas==2.0.3
+numpy==1.24.4
+matplotlib==3.7.5
+seaborn==0.13.2
+tqdm==4.66.5
+wandb==0.19.1
+pillow==10.2.0
